@@ -1,0 +1,25 @@
+#title {
+    text-align: center;
+}
+
+#image {
+    width: 500px;
+    height: 400px;
+}
+
+#header-div {
+    font-family: 'Bebas Neue', cursive;
+    background-color: peachpuff;
+}
+
+.main-div {
+    background-color:lightcoral;
+}
+
+body {
+    background-color: lightsalmon;
+}
+
+#footer-div {
+    text-shadow: 5px;
+}
